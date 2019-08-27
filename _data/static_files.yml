@@ -3742,16 +3742,6 @@
   - 'no'
   - spray
   - unorganized
-- title: elmo-dismissive-wank.gif
-  category: unorganized
-  path: unorganized/elmo-dismissive-wank.gif
-  modified_time: 1562078083
-  tags:
-  - dismissive
-  - elmo
-  - gif
-  - unorganized
-  - wank
 - title: thumbs-up-waynes-world.gif
   category: unorganized
   path: unorganized/thumbs-up-waynes-world.gif
@@ -3908,17 +3898,6 @@
   - the
   - unorganized
   - what
-- title: group-arms-dismissive-wank.gif
-  category: unorganized
-  path: unorganized/group-arms-dismissive-wank.gif
-  modified_time: 1562684779
-  tags:
-  - arms
-  - dismissive
-  - gif
-  - group
-  - unorganized
-  - wank
 - title: JWkECAJ.gif
   category: unorganized
   path: unorganized/reactions/JWkECAJ.gif
@@ -6462,15 +6441,6 @@
   - gif
   - pushing
   - sigh
-  - unorganized
-- title: michael-keaton.gif
-  category: unorganized
-  path: unorganized/michael-keaton.gif
-  modified_time: 1543936495
-  tags:
-  - gif
-  - keaton
-  - michael
   - unorganized
 - title: no-no-no-2.gif
   category: unorganized
@@ -16797,6 +16767,36 @@
   - gif
   - outtahere
   - riker
+- title: buried-arms-wanking.gif
+  category: dismissive
+  path: dismissive/buried-arms-wanking.gif
+  modified_time: 1562684779
+  tags:
+  - arms
+  - buried
+  - dismissive
+  - gif
+  - wanking
+- title: michael-keaton-wank-mk.gif
+  category: dismissive
+  path: dismissive/michael-keaton-wank-mk.gif
+  modified_time: 1543936495
+  tags:
+  - dismissive
+  - gif
+  - keaton
+  - michael
+  - mk
+  - wank
+- title: elmo-wank.gif
+  category: dismissive
+  path: dismissive/elmo-wank.gif
+  modified_time: 1562078083
+  tags:
+  - dismissive
+  - elmo
+  - gif
+  - wank
 - title: hubmojis-jglovier-wink.gif
   category: hubbers
   path: hubbers/hubmojis-jglovier-wink.gif
