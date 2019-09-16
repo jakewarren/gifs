@@ -1670,15 +1670,6 @@
   - shining
   - stare
   - unorganized
-- title: pony-smug.gif
-  category: unorganized
-  path: unorganized/pony-smug.gif
-  modified_time: 1551994849
-  tags:
-  - gif
-  - pony
-  - smug
-  - unorganized
 - title: yes-yes-yes-yes-nod-nod-nod.gif
   category: unorganized
   path: unorganized/yes-yes-yes-yes-nod-nod-nod.gif
@@ -4864,15 +4855,6 @@
   - that
   - unorganized
   - what
-- title: pony-smug2.gif
-  category: unorganized
-  path: unorganized/pony-smug2.gif
-  modified_time: 1551994904
-  tags:
-  - gif
-  - pony
-  - smug2
-  - unorganized
 - title: nooo-adventure-time-dog.gif
   category: unorganized
   path: unorganized/nooo-adventure-time-dog.gif
@@ -6199,17 +6181,6 @@
   - moved
   - space
   - unorganized
-- title: smug-nod-clint-eastwood.gif
-  category: unorganized
-  path: unorganized/smug-nod-clint-eastwood.gif
-  modified_time: 1470161519
-  tags:
-  - clint
-  - eastwood
-  - gif
-  - nod
-  - smug
-  - unorganized
 - title: sick-cold.gif
   category: unorganized
   path: unorganized/sick-cold.gif
@@ -6252,15 +6223,6 @@
   - success
   - unorganized
   - weights
-- title: smug-monkey.gif
-  category: unorganized
-  path: unorganized/smug-monkey.gif
-  modified_time: 1469734959
-  tags:
-  - gif
-  - monkey
-  - smug
-  - unorganized
 - title: smiley-eatdrink008.gif
   category: unorganized
   path: unorganized/smiley-eatdrink008.gif
@@ -6781,17 +6743,6 @@
   - gif
   - hunt
   - transparent
-  - unorganized
-- title: smug-nod-dr-terrible.gif
-  category: unorganized
-  path: unorganized/smug-nod-dr-terrible.gif
-  modified_time: 1470161558
-  tags:
-  - dr
-  - gif
-  - nod
-  - smug
-  - terrible
   - unorganized
 - title: ninja-smoke-bomb.gif
   category: unorganized
@@ -8908,21 +8859,6 @@
   - hffA0qb
   - jpg
   - unorganized
-- title: i-didnt-do-it-smug-dog-remote-chew.jpg
-  category: unorganized
-  path: unorganized/i-didnt-do-it-smug-dog-remote-chew.jpg
-  modified_time: 1477067216
-  tags:
-  - chew
-  - didnt
-  - do
-  - dog
-  - i
-  - it
-  - jpg
-  - remote
-  - smug
-  - unorganized
 - title: i-didnt-do-it-pillow-explosion.jpg
   category: unorganized
   path: unorganized/i-didnt-do-it-pillow-explosion.jpg
@@ -9411,18 +9347,6 @@
   - png
   - prostitute
   - unorganized
-- title: deal-with-it-smug.png
-  category: unorganized
-  path: unorganized/moved/deal-with-it-smug.png
-  modified_time: 1425487528
-  tags:
-  - deal
-  - it
-  - moved
-  - png
-  - smug
-  - unorganized
-  - with
 - title: free_icon_zelda_master_sword_and_shield_by_deenji-d67b0pl.png
   category: unorganized
   path: unorganized/free_icon_zelda_master_sword_and_shield_by_deenji-d67b0pl.png
@@ -16163,6 +16087,73 @@
   - dingdong
   - gif
   - hello
+- title: pony-smug.gif
+  category: smug
+  path: smug/pony-smug.gif
+  modified_time: 1551994849
+  tags:
+  - gif
+  - pony
+  - smug
+- title: seal.gif
+  category: smug
+  path: smug/seal.gif
+  modified_time: 1568667001
+  tags:
+  - gif
+  - seal
+  - smug
+- title: pony-smug2.gif
+  category: smug
+  path: smug/pony-smug2.gif
+  modified_time: 1551994904
+  tags:
+  - gif
+  - pony
+  - smug
+  - smug2
+- title: smug-nod-clint-eastwood.gif
+  category: smug
+  path: smug/smug-nod-clint-eastwood.gif
+  modified_time: 1470161519
+  tags:
+  - clint
+  - eastwood
+  - gif
+  - nod
+  - smug
+- title: smug-monkey.gif
+  category: smug
+  path: smug/smug-monkey.gif
+  modified_time: 1469734959
+  tags:
+  - gif
+  - monkey
+  - smug
+- title: smug-nod-dr-terrible.gif
+  category: smug
+  path: smug/smug-nod-dr-terrible.gif
+  modified_time: 1470161558
+  tags:
+  - dr
+  - gif
+  - nod
+  - smug
+  - terrible
+- title: i-didnt-do-it-smug-dog-remote-chew.jpg
+  category: smug
+  path: smug/i-didnt-do-it-smug-dog-remote-chew.jpg
+  modified_time: 1477067216
+  tags:
+  - chew
+  - didnt
+  - do
+  - dog
+  - i
+  - it
+  - jpg
+  - remote
+  - smug
 - title: cant-handle-the-juith.gif
   category: disbelief
   path: disbelief/cant-handle-the-juith.gif
